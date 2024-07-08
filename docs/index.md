@@ -23,9 +23,9 @@ Das Programm entspricht dem aktuellen Stand der Planung. Es kann zu
 
 Der Unterricht findet über weite Strecken am Computer statt. Hier finden
 sich die Anleitungen für 
-die Installation von Python
+die [Installation von Python](anleitungen/python.md)
 bzw.
-Jupyter Notebooks.
+[Jupyter Notebooks](anleitungen/vs_code.md).
 
 
 ## Beurteilung
