@@ -1,3 +1,5 @@
+# Installation von VS Code und Jupyter Notebook
+
 Hier ist eine Schritt-für-Schritt-Anleitung, um Jupyter Notebooks in Visual Studio Code (VS Code) zu bearbeiten:
 
 1. Visual Studio Code installieren:
@@ -39,3 +41,5 @@ Tipps:
 - Nutzen Sie die Befehlspalette (Strg+Shift+P), um weitere Jupyter-bezogene Befehle zu finden
 
 Mit dieser Anleitung sollten Sie in der Lage sein, Jupyter Notebooks in VS Code zu erstellen, zu bearbeiten und auszuführen. Viel Erfolg beim Arbeiten mit Jupyter Notebooks!
+
+*Dieser Text wurde mit Hilfe von Perplexity.ai erstellt.*
