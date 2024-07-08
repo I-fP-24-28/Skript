@@ -27,6 +27,11 @@ die [Installation von Python](anleitungen/python.md)
 bzw.
 [Jupyter Notebooks](anleitungen/vs_code.md).
 
+Um im Unterricht etwas ausprobieren zu können, ohne dass der ganze
+Computer zum Absturz gebracht wird, arbeiten wir in virtuellen
+Arbeitsumgebungen. [Hier wird beschrieben, wie eine solche virtuelle
+Arbeitsumgebung eingerichtet wird](anleitungen/anleitung_venv.md).
+
 
 ## Beurteilung
 
