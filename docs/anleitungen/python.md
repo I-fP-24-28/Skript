@@ -1,44 +1,66 @@
 # Installation von Python
 
 Hier ist eine einfache Schritt-für-Schritt-Anleitung zur Installation
-von Python auf einem Windows 11-Rechner:
+von Python:  
 
-1. Öffnen Sie den Microsoft Store
-   - Klicken Sie auf das Windows-Symbol unten links in der Taskleiste
-   - Geben Sie "Microsoft Store" in die Suchleiste ein
-   - Klicken Sie auf das Microsoft Store-Symbol, um den Store zu öffnen
+## Python herunterladen und installieren
 
-2. Suchen Sie nach Python im Microsoft Store
-   - Klicken Sie oben rechts auf das Suchsymbol
-   - Geben Sie "Python" in die Suchleiste ein
+1. Öffnen Sie Ihren Webbrowser und gehen Sie zur offiziellen
+   Python-Website: 
+   [www.python.org](www.python.org) 
 
-3. Wählen Sie die Python-Version aus
-   - Suchen Sie nach der neuesten Version von Python (zu Beginn des
-     Schuljahres 24/25 ist das Python 3.12)
-   - Klicken Sie auf den "Kostenlos"-Button neben der gewünschten Version
+2. Klicken Sie auf der Startseite auf den Button "Downloads"
 
-4. Installieren Sie Python
-   - Warten Sie, bis der Download abgeschlossen ist
-   - Klicken Sie den "Installieren"-Button
-   - Während der Installation achten Sie darauf, dass die Option "Add
-     Python to PATH" aktiviert ist. 
-   - Der Download und die Installation können einige Minuten dauern,
-     abhängig von Ihrer Internetverbindung 
+3. Suchen Sie die neueste Python-Version für Windows (Juli 24 Python
+   3.12.x)
 
-5. Überprüfen Sie die Installation
-   - Drücken Sie die Windows-Taste + R, um das "Ausführen"-Fenster zu öffnen
-   - Geben Sie "cmd" ein und drücken Sie Enter, um die Eingabeaufforderung zu öffnen
-   - Tippen Sie `python --version` und drücken Sie Enter
-   - Wenn Python korrekt installiert wurde, sehen Sie die Versionsnummer
+4. Klicken Sie auf den Download-Button für die 64-bit-Version (falls nicht automatisch ausgewählt)
 
-6. Testen Sie Python
-   - Geben Sie in der Eingabeaufforderung "python" ein und drücken Sie Enter
-   - Sie sollten nun die Python-Umgebung sehen
-   - Tippen Sie "print('Hallo Welt!')" und drücken Sie Enter
-   - Sie sollten "Hallo Welt!" als Ausgabe sehen
-   - Um Python zu verlassen, tippen Sie "exit()" und drücken Sie Enter
+5. Nachdem der Download abgeschlossen ist, öffnen Sie die heruntergeladene Datei (sie endet auf .exe)
 
-Glückwunsch! Sie haben Python erfolgreich auf Ihrem Windows 11-Rechner
-installiert und getestet.
+6. Im Installationsfenster setzen Sie ein Häkchen bei "Add Python x.x to
+   PATH" (**sehr wichtig!**) 
+
+7. Klicken Sie auf "Install Now" und warten Sie, bis die Installation abgeschlossen ist
+
+8. Klicken Sie am Ende auf "Close"
+
+## Installation überprüfen
+
+1. Öffnen Sie die Windows-Eingabeaufforderung (cmd/Terminal):
+   - Drücken Sie die Windows-Taste + R
+   - Geben Sie "cmd" ein und drücken Sie Enter
+
+2. In der Eingabeaufforderung/Terminal (dem neu aufgegangen Fenster) tippen Sie:
+   ```
+   python --version
+   ```
+   und drücken Sie Enter
+
+3. Wenn die Installation erfolgreich war, sehen Sie die installierte
+   Python-Version (stimmt mit dem Überein, was auf dem Download-Button
+   gestanden hat)
+
+## Erste Schritte mit Python
+
+1. In der Eingabeaufforderung tippen Sie `python` und drücken Enter
+
+2. Sie sehen nun den Python-Prompt (>>>). Der Prompt ist eine
+   Eingabeaufforderung. Hier können Sie direkt Python-Code eingeben,
+   z.B.: 
+   ```python
+   print("Hallo, Welt!")
+   ```
+
+3. Drücken Sie Enter, um den Code auszuführen
+
+4. Um die Python-Umgebung zu verlassen, geben Sie `exit()` ein und drücken Enter
+
+Glückwunsch! Sie haben Python erfolgreich installiert und Ihr erstes
+Programm ausgeführt. 
+
+Mit dieser Anleitung sollten Sie Python problemlos installieren und
+erste Schritte in der Programmierung machen können. Viel Erfolg beim
+Lernen! 
 
 *Dieser Text wurde mit Hilfe von Perplexity.ai erstellt.*
