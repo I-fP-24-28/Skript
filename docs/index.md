@@ -25,7 +25,7 @@ Der Unterricht findet über weite Strecken am Computer statt. Hier finden
 sich die Anleitungen für 
 die [Installation von Python](anleitungen/python.md)
 bzw.
-[Jupyter Notebooks](anleitungen/vs_code.md).
+[Jupyter Notebooks](anleitungen/jupyter.md).
 
 Um im Unterricht etwas ausprobieren zu können, ohne dass der ganze
 Computer zum Absturz gebracht wird, arbeiten wir in virtuellen
@@ -35,8 +35,9 @@ Arbeitsumgebung eingerichtet wird](anleitungen/anleitung_venv.md).
 
 ## Beurteilung
 
-Die Note wird aus dem Durchschnitt der beiden schriftlichen Prüfungen
-sowie der Benotung der mündlichen Beteiligung berechnet. Der
+Die Note wird aus dem Durchschnitt zweier schriftlichen Prüfungen
+sowie der Benotung der mündlichen Beteiligung berechnet. Als mündliche
+Beteiligung gilt insbesondere auch nachfragen. Der
 Durchschnitt der Prüfungen zählt zu 90%, die mündliche Beteiligung zu
 10%.  
 
