@@ -1,4 +1,4 @@
-# Probleme Lösen
+# Probleme lösen
 
 In dieser Einheit geht es darum, sich mit einer ersten Art der
 Problemlösung beim Programmieren auseinanderzusetzen.
