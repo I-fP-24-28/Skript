@@ -6,7 +6,8 @@ Die Informatik ist allso die Wissenschaft, die sich mit Computern
 befasst. Gemeint ist damit die wissenschaftliche Auseinandersetzungen
 mit Fragen der folgenden Art:
 
-* Wie sind Computer aufgebaut?
+* Wie sind 
+  [Computer aufgebaut](https://en.wikipedia.org/wiki/Computer_architecture)? 
 * Wie werden Informationen im Computer verarbeitet, abgespeichert und
   dargestellt? 
 * Wie funktioniert die Kommunikation zwischen Computern?
