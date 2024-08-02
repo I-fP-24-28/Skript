@@ -1,7 +1,3 @@
----
-layout: default
----
-
 # Virtual Environments in Python
 
 Python stellt sehr viele Pakete (Zusammenstellungen von Unterprogrammen)
