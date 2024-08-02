@@ -13,7 +13,7 @@ Virtual Environment (venv) in einem vorgegebenen Ordner:
 
 2. Navigieren Sie zum gewünschten Ordner
    Verwenden Sie den Befehl:
-   ```
+   ```sh
    cd Pfad\zum\gewünschten\Ordner
    ```
 
@@ -25,38 +25,38 @@ Virtual Environment (venv) in einem vorgegebenen Ordner:
 
 3. Erstellen Sie die Virtual Environment
    Geben Sie folgenden Befehl ein:  
-   ```
+   ```sh
    python -m venv venv
    ```
    Dies erstellt einen Unterordner namens "venv" mit der Virtual Environment.
 
 4. Aktivieren Sie die Virtual Environment
    Unter Windows:  
-   ```
+   ```sh
    venv\Scripts\activate
    ```
 
    Falls Sie in Windows Powershell arbeiten, lautet der Befehl für die
    Aktivierung der Virtual Environment  
-   ```
+   ```sh
    venv\Scripts\activate.ps1
    ```
    
 5. Überprüfen Sie die Aktivierung  
    Sie sollten nun (venv) am Anfang der Eingabeaufforderung sehen.  
-   ```
+   ```sh
    (venv) \Pfad\zum\Arbeitsordner>
    ```
 
 6. Installieren Sie benötigte Pakete  
    Verwenden Sie pip, um Pakete zu installieren, z.B.:
-   ```
+   ```sh
    pip install paketname
    ```
 
 7. Deaktivieren der Virtual Environment  
    Wenn Sie fertig sind, geben Sie ein:
-   ```
+   ```sh
    deactivate
    ```
 

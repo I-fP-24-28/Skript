@@ -33,7 +33,7 @@ von Python:
 
 2. In der Eingabeaufforderung/Terminal (dem neu aufgegangen Fenster)
    tippen Sie:  
-   ```
+   ```sh
    python --version
    ```
    und drücken Sie Enter
