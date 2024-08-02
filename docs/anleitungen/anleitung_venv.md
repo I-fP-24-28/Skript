@@ -12,7 +12,7 @@ Virtual Environment (`venv`) in einem vorgegebenen Ordner:
 1. Öffnen Sie die Eingabeaufforderung (`cmd`) oder PowerShell
 
 2. Navigieren Sie zum gewünschten Ordner
-   Verwenden Sie den Befehl:
+   Verwenden Sie den Befehl:  
    ```sh
    cd Pfad\zum\gewünschten\Ordner
    ```
@@ -49,13 +49,13 @@ Virtual Environment (`venv`) in einem vorgegebenen Ordner:
    ```
 
 6. Installieren Sie benötigte Pakete  
-   Verwenden Sie pip, um Pakete zu installieren, z.B.:
+   Verwenden Sie pip, um Pakete zu installieren, z.B.:  
    ```sh
    pip install paketname
    ```
 
 7. Deaktivieren der Virtual Environment  
-   Wenn Sie fertig sind, geben Sie ein:
+   Wenn Sie fertig sind, geben Sie ein:  
    ```sh
    deactivate
    ```
