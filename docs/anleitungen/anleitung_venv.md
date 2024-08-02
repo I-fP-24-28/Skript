@@ -1,8 +1,10 @@
 # Virtual Environments in Python
 
-Python stellt sehr viele Pakete zu unterschiedlichen Problemstellungen
+Python stellt sehr viele Pakete (Zusammenstellungen von Unterprogrammen)
+zu unterschiedlichen Problemstellungen
 zur Verfügung. Um Installationen solcher Pakete gefahrlos ausprobieren
-zu können, stellt Python virtuelle Arbeitsumgebungen zur Verfügung. 
+zu können, stellt Python virtuelle Arbeitsumgebungen zur Verfügung
+(Python Virtual Environment). 
 
 Hier ist eine Schritt-für-Schritt-Anleitung zum Erstellen einer Python
 Virtual Environment (venv) in einem vorgegebenen Ordner: 
@@ -22,28 +24,37 @@ Virtual Environment (venv) in einem vorgegebenen Ordner:
    direkt im gewählten Ordner.
 
 3. Erstellen Sie die Virtual Environment
-   Geben Sie folgenden Befehl ein:
+   Geben Sie folgenden Befehl ein:  
    ```
    python -m venv venv
    ```
    Dies erstellt einen Unterordner namens "venv" mit der Virtual Environment.
 
 4. Aktivieren Sie die Virtual Environment
-   Unter Windows:
+   Unter Windows:  
    ```
    venv\Scripts\activate
    ```
-   
-5. Überprüfen Sie die Aktivierung
-   Sie sollten nun (venv) am Anfang der Eingabeaufforderung sehen.
 
-6. Installieren Sie benötigte Pakete
+   Falls Sie in Windows Powershell arbeiten, lautet der Befehl für die
+   Aktivierung der Virtual Environment  
+   ```
+   venv\Scripts\activate.ps1
+   ```
+   
+5. Überprüfen Sie die Aktivierung  
+   Sie sollten nun (venv) am Anfang der Eingabeaufforderung sehen.  
+   ```
+   (venv) \Pfad\zum\Arbeitsordner>
+   ```
+
+6. Installieren Sie benötigte Pakete  
    Verwenden Sie pip, um Pakete zu installieren, z.B.:
    ```
    pip install paketname
    ```
 
-7. Deaktivieren der Virtual Environment
+7. Deaktivieren der Virtual Environment  
    Wenn Sie fertig sind, geben Sie ein:
    ```
    deactivate

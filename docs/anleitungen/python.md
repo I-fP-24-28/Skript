@@ -31,7 +31,8 @@ von Python:
    - Drücken Sie die Windows-Taste + R
    - Geben Sie "cmd" ein und drücken Sie Enter
 
-2. In der Eingabeaufforderung/Terminal (dem neu aufgegangen Fenster) tippen Sie:
+2. In der Eingabeaufforderung/Terminal (dem neu aufgegangen Fenster)
+   tippen Sie:  
    ```
    python --version
    ```
@@ -47,7 +48,7 @@ von Python:
 
 2. Sie sehen nun den Python-Prompt (>>>). Der Prompt ist eine
    Eingabeaufforderung. Hier können Sie direkt Python-Code eingeben,
-   z.B.: 
+   z.B.:  
    ```python
    print("Hallo, Welt!")
    ```
