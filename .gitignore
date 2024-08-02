@@ -14,4 +14,7 @@
 *.js
 *.css
 *.woff
-*.fls 
+*.fls
+*.gz
+*.fdb_satexmk
+
