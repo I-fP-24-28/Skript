@@ -7,9 +7,9 @@ zu können, stellt Python virtuelle Arbeitsumgebungen zur Verfügung
 (Python Virtual Environment). 
 
 Hier ist eine Schritt-für-Schritt-Anleitung zum Erstellen einer Python
-Virtual Environment (venv) in einem vorgegebenen Ordner: 
+Virtual Environment (`venv`) in einem vorgegebenen Ordner: 
 
-1. Öffnen Sie die Eingabeaufforderung (cmd) oder PowerShell
+1. Öffnen Sie die Eingabeaufforderung (`cmd`) oder PowerShell
 
 2. Navigieren Sie zum gewünschten Ordner
    Verwenden Sie den Befehl:
@@ -28,7 +28,7 @@ Virtual Environment (venv) in einem vorgegebenen Ordner:
    ```sh
    python -m venv venv
    ```
-   Dies erstellt einen Unterordner namens "venv" mit der Virtual Environment.
+   Dies erstellt einen Unterordner namens `venv` mit der Virtual Environment.
 
 4. Aktivieren Sie die Virtual Environment
    Unter Windows:  
@@ -43,7 +43,7 @@ Virtual Environment (venv) in einem vorgegebenen Ordner:
    ```
    
 5. Überprüfen Sie die Aktivierung  
-   Sie sollten nun (venv) am Anfang der Eingabeaufforderung sehen.  
+   Sie sollten nun (`venv`) am Anfang der Eingabeaufforderung sehen.  
    ```sh
    (venv) \Pfad\zum\Arbeitsordner>
    ```

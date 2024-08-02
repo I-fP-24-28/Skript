@@ -27,9 +27,9 @@ von Python:
 
 ## Installation überprüfen
 
-1. Öffnen Sie die Windows-Eingabeaufforderung (cmd/Terminal):
+1. Öffnen Sie die Windows-Eingabeaufforderung (`cmd`/Terminal):
    - Drücken Sie die Windows-Taste + R
-   - Geben Sie "cmd" ein und drücken Sie Enter
+   - Geben Sie "`cmd`" ein und drücken Sie Enter
 
 2. In der Eingabeaufforderung/Terminal (dem neu aufgegangen Fenster)
    tippen Sie:  
