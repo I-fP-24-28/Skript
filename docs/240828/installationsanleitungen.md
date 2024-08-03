@@ -29,3 +29,28 @@ können und allenfalls auch ausdrucken, verwenden wir im Unterricht
 sogenannte [Jupyter Notebooks](https://jupyter.org/). Wie Sie das für VS
 Code vorbereiten,
 [wird hier erklärt](../anleitungen/jupyter.md).
+
+## Arbeitsumgebung in der lokalen Ordnerstruktur
+
+Ich gehe davon aus, dass Sie die Dateien für die Schule grundsätzlich
+folgendermassen organisiert haben:
+
+```sh
++---Schule
+    +---BG
+    +---Chemie
+    +---Deutsch
+    +---Englisch
+    +---Franzoesisch
+    +---Geographie
+    +---Geschichte
+    +---Informatik
+    ¦   +---Einfuehrung
+    +---Klassenstunde
+    +---Mathematik
+    +---Musik
+    +---PPP
+```
+
+Für das erstellen der verlangten Python Virtual Environment wechseln Sie
+jeweils in den Ordner `Schule>Informatik>Einfuehrung`.
