@@ -8,15 +8,13 @@ Sie an Ihrem Computer ein paar Vorbereitungsarbeiten vornehmen.
 
 Als erstes müssen Sie die Programmiersprache Python auf Ihrem Computer
 verfügbar machen.
-[Hier finden Sie eine entsprechende
-Anleitung.](../anleitungen/python.md)
+[Hier finden Sie eine entsprechende Anleitung.](../anleitungen/python.md)
 
 ## Einrichten einer virtuellen Arbeitsumgebung
 
 Es ist gute Praxis, Python Programme in einer virtuellen Arbeitsumgebung
 zu schreiben und auszuführen.
-[Eine Beschreibung, wie das geht, finden Sie
-hier.](../anleitungen/anleitung_venv.md) 
+[Eine Beschreibung, wie das geht, finden Sie hier.](../anleitungen/anleitung_venv.md) 
 
 ## Editor zum erstellen von Python Programmen
 
