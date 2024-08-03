@@ -1,3 +1,6 @@
+---
+theme: jekyll-theme-slate
+---
 # Installation von Python
 
 Hier ist eine einfache Schritt-für-Schritt-Anleitung zur Installation
