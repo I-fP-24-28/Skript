@@ -1,3 +1,8 @@
+---
+theme: default
+title: Installation von Python
+---
+
 # Installation von Python
 
 Hier ist eine einfache Schritt-für-Schritt-Anleitung zur Installation
