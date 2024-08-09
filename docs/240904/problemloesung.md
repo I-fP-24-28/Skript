@@ -60,5 +60,5 @@ erfolgreich abgeschlossen sind):
 9. Folgen Sie den Anleitungen im Arbeitsblatt.
 
 Diese Vorgehensweise soll in diesem 
-[Arbeitsblatt](https://nbviewer.org/github/I-fP-24-28/Skript/blob/main/docs/240904/schweizerfahne.ipynb)
+[Arbeitsblatt](https://colab.research.google.com/github/I-fP-24-28/Skript/blob/main/docs/240904/schweizerfahne.ipynb)
 am Wappen des Kantons Tessin und der Schweizerfahne.
