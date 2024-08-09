@@ -61,4 +61,4 @@ erfolgreich abgeschlossen sind):
 
 Diese Vorgehensweise soll in diesem 
 [Arbeitsblatt](https://colab.research.google.com/github/I-fP-24-28/Skript/blob/main/docs/240904/schweizerfahne.ipynb)
-am Wappen des Kantons Tessin und der Schweizerfahne.
+am Wappen des Kantons Tessin und der Schweizerfahne geübt werden.
