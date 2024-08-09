@@ -46,7 +46,7 @@ erfolgreich abgeschlossen sind):
    Dieser Vorgang dauert einige Minuten.
 
 6. Jetzt können Sie unter dem Link
-   [Arbeitsblatt](https://nbviewer.org/github/I-fP-24-28/Skript/blob/main/docs/240904/schweizerfahne.ipynb)
+   [Arbeitsblatt](https://colab.research.google.com/github/I-fP-24-28/Skript/blob/main/docs/240904/schweizerfahne.ipynb)
    das vorbereitete Jupyter Notebook in den neuen Ordner 240904
    herunterladen.
    
