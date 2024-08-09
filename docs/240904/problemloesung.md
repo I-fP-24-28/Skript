@@ -57,6 +57,7 @@ erfolgreich abgeschlossen sind):
    ...\240904> jupyter notebook
    ```
 8. Öffnen Sie das Jupyter Notebook mit Doppelklick auf den Dateinamen `schweizerfahne.ipynb`
+9. Folgen Sie den Anleitungen im Arbeitsblatt.
 
 Diese Vorgehensweise soll in diesem 
 [Arbeitsblatt](https://nbviewer.org/github/I-fP-24-28/Skript/blob/main/docs/240904/schweizerfahne.ipynb)
