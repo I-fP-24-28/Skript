@@ -13,6 +13,51 @@ drei gleichgrosse nebeneinander angeordnete Rechtecke in den Farben
 blau, weiss und rot. Entsprechend muss man die drei Rechtecke zeichnen
 und anschliessen nebeneinander anordnen.
 
+Damit Sie das an Ihrem Computer tun können, müssen die folgenden
+Vorbereitungsarbeiten erledigt werden (es wird vorausgesetzt, dass alle
+Systemeinrichtungsarbeiten aus der 
+[Lektion vom 28. August 24](../240828/installationsanleitungen.md)
+erfolgreich abgeschlossen sind):
+
+1. Legen Sie im Ordner Informatik einen Unterordner 240904 an.
+2. Klicken Sie den neuen Ordner 240904 mit der rechten Maustaste an und
+   wählen sie aus dem Kontextmenü weitere Optionen aus. In den weiteren
+   Optionen wählen Sie `In Terminal öffnen`.
+3. Im neuen Terminal erstellen Sie eine Python Virtual Environment.
+   
+   ```shell
+   ...\240904> python -m venv venv
+   ```
+
+4. Starten Sie die Python Virtual Environment.
+   
+   ```shell
+   ...\240904> venv\Scripts\activate
+   ```
+
+5. Installieren Sie in dieser Python Virtual Environment die Pakete
+   `jupyter` und `pytamaro`.
+
+      
+   ```shell
+   ...\240904> python -m pip install jupyter pytamaro
+   ```
+
+   Dieser Vorgang dauert einige Minuten.
+
+6. Jetzt können Sie unter dem Link
+   [Arbeitsblatt](https://nbviewer.org/github/I-fP-24-28/Skript/blob/main/docs/240904/schweizerfahne.ipynb)
+   das vorbereitete Jupyter Notebook in den neuen Ordner 240904
+   herunterladen.
+   
+7. Starten Sie Jupyter Notebook
+
+      
+   ```shell
+   ...\240904> jupyter notebook
+   ```
+8. Öffnen Sie das Jupyter Notebook mit Doppelklick auf den Dateinamen `schweizerfahne.ipynb`
+
 Diese Vorgehensweise soll in diesem 
-[Arbeitsblatt](schweizerfahne.ipynb)
+[Arbeitsblatt](https://nbviewer.org/github/I-fP-24-28/Skript/blob/main/docs/240904/schweizerfahne.ipynb)
 am Wappen des Kantons Tessin und der Schweizerfahne.
