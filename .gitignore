@@ -1,20 +1,26 @@
-*.json
-*.pdf
-*.vscode
-*.ods
-**/.vscode
-**/.venv
-**/.ipynb_checkpoints
-*.pyc
-*.dia~
-*.aux
-*.log
-*.dvi
-*.swp
-*.js
-*.css
-*.woff
-*.fls
-*.gz
-*.fdb_satexmk
+# Ignore everything
+*
 
+# But not these files...
+!.gitignore
+!*.csv
+!*.md
+!*.py
+!*.ipynb
+!*.svg
+!*.yaml
+!*.bib
+!*.csl
+!requirements.txt
+!*.tex
+!*.qmd
+
+# ...even if they are in subdirectories
+!*/
+
+# Ignore venv folder
+venv/
+
+# Re-ignore .py files in the venv folder
+venv/**/*.py
+/.luarc.json
