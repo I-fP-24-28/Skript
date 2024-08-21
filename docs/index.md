@@ -10,7 +10,8 @@ Das Programm entspricht dem aktuellen Stand der Planung. Es kann zu
 | Datum | Thema |
 | ----- | ----- |
 | 21.08.24 | [Was ist Informatik?](240821/einfuehrung.md) |
-| 28.08.24 | [Systemvorbereitungen](240828/installationsanleitungen.md) |
+| 21.08.24 | [Systemvorbereitungen](240828/installationsanleitungen.md) |
+| 28.08.24 | [Problemlösung in der Informatik](240904/problemloesung.md) |
 | 04.09.24 | [Problemlösung in der Informatik](240904/problemloesung.md) |
 | 11.09.24 | Variablen als Wegweiser zu Objekten |
 | 18.09.24 | Schleifen |
