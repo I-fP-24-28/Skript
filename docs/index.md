@@ -13,7 +13,7 @@ Das Programm entspricht dem aktuellen Stand der Planung. Es kann zu
 | 21.08.24 | [Systemvorbereitungen](240828/installationsanleitungen.md) |
 | 28.08.24 | [Problemlösung in der Informatik](240904/problemloesung.md) |
 | 04.09.24 | [Problemlösung in der Informatik](240904/problemloesung.md) |
-| 11.09.24 | Variablen als Wegweiser zu Objekten |
+| 11.09.24 | [Variablen als Wegweiser zu Objekten](https://colab.research.google.com/github/I-fP-24-28/Skript/blob/main/docs/240911/Variablen.ipynb) |
 | 18.09.24 | Schleifen |
 | 25.09.24 | Bedingungen |
 | 23.10.24 | Anwendungsübungen |
