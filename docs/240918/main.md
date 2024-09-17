@@ -44,5 +44,5 @@ einzelnen Angaben zu Endwert, Startwert und Schrittweite unterschieden
 werden. 
 
 Im hier verlinkten
-[Arbeitsblatt](https://colab.research.google.com/github/I-eW-24-28/Script/blob/main/docs/240918/for_loop.ipynb)
+[Arbeitsblatt](https://colab.research.google.com/github/I-fP-24-28/Skript/blob/main/docs/240918/for_loop.ipynb)
 finden Sie ein paar Übungen zu Python For-Schleifen. 
