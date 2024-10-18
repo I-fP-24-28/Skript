@@ -50,5 +50,5 @@ Verfassen Sie eine Zusammenfassung für die Prüfung vom 6. November 24.
 
 Sie erreichen mich via Teams. Fragen zum Auftrag und zur Prüfung werden
 ausschliesslich im 
-[Kanal Allgemein des Teams I_eW_24-28](https://teams.microsoft.com/l/channel/19%3AZ2-BO7gvqM1ddHiGLyuZFfxmH0Oqvv2-PT8Cd5hJp_k1%40thread.tacv2/General?groupId=bfbd2791-1a4e-492d-a2ba-8151a81d6de8&tenantId=50059cc0-6e9c-4754-b309-9fda676913c7)
+[Kanal Allgemein des Teams I_fP_24-28](https://teams.microsoft.com/l/channel/19%3AZ2-BO7gvqM1ddHiGLyuZFfxmH0Oqvv2-PT8Cd5hJp_k1%40thread.tacv2/General?groupId=bfbd2791-1a4e-492d-a2ba-8151a81d6de8&tenantId=50059cc0-6e9c-4754-b309-9fda676913c7)
 beantwortet. 
