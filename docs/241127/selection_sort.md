@@ -62,6 +62,10 @@ def euclid(m : int, n : int) -> int:
     return n
 ```
 
+>## Exkurs Scope und Namespace
+>
+>Hier kommt die theoretische Zusammenfassung.
+
 ## Aufgabe
 
 Berechnen Sie von Hand nach dem Euklidischen Algorithmus den grössten
