@@ -36,13 +36,13 @@ beschrieben.
 positive natürliche Zahlen $m$ und $n$. Gesucht ist deren grösster
 gemeinsamer Teiler.
 
-**E1.** \[Rest berechnen.\] Teile $m$ durch $n$. Der Rest sei $r$. (Es
+**E1.** *Rest berechnen.* Teile $m$ durch $n$. Der Rest sei $r$. (Es
 gilt $0 \leq r < n$.)  
 
-**E2.** \[Ist der Rest null?\] Wenn $r = 0$ endet der Algorithmus und
+**E2.** *Ist der Rest null?* Wenn $r = 0$ endet der Algorithmus und
 $n$ ist die Lösung.
 
-**E3.** \[Reduzieren.\] Setze $m \leftarrow n, n \leftarrow r$ und gehe
+**E3.** *Reduzieren.* Setze $m \leftarrow n, n \leftarrow r$ und gehe
 zurück zu Schritt E1.[^2]
 
 Der Algorithmus E kann in das folgende Flussdiagramm übersetzt werden.
