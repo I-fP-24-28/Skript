@@ -62,9 +62,15 @@ def euclid(m : int, n : int) -> int:
     return n
 ```
 
->## Exkurs Scope und Namespace
+>## Exkurs Sichtbarkeit von Variablen
 >
->Hier kommt die theoretische Zusammenfassung.
+>Die Namen von Variablen in Python sind nicht im ganzen Programm sichtbar.
+>Entscheidend ist, wo die Variable definiert werden. Variablen, die innerhalb
+>einer Funktion definiert werden, sind nur innerhalb dieser Funktion sichtbar.
+>Variablen, welche in einem File (Modul) definiert werden, sind grundsätzlich
+>nur in diesem Modul sichtbar.
+>
+>So ist es möglich, den gleichen Namen für verschiedene Variablen zu vergeben.
 
 ## Aufgabe
 
