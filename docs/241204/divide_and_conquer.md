@@ -1,4 +1,17 @@
-# Divide and Conquer
+# Rekursion
+
+Bevor ein etwas effizienterer Sortieralgorithmus als selection sort besprochen
+werden kann, muss ein weiteres Programmierverfahren eingeführt werden: Die
+Rekursion. Man spricht in diesem Zusammenhang gelegentlich auch von *divide and
+conquer* (teile und herrsche).
+
+Die Möglichkeiten und Grenzen der Rekursion soll mit Hilfe dreier Beispiele
+
+* der Berechnung der Summe einer Sequenz aufsteigender Zahlen (kleiner Gauss),
+* der Berechnung des Produkts einer Sequenz aufsteigender Zahlen ($n!$) sowie
+* der Fibbonacci Zahlenfolge
+
+aufgezeigt werden.
 
 Das Prinzip *divide and conquer* (teile und herrsche) wird am Beispiel
 von Merge Sort - einem Sortieralgorithmus - vorgestellt.
