@@ -7,22 +7,14 @@ conquer* (teile und herrsche).
 
 Die Möglichkeiten und Grenzen der Rekursion soll mit Hilfe dreier Beispiele
 
-* der Berechnung der Summe einer Sequenz aufsteigender Zahlen (kleiner Gauss),
+* der Berechnung der Summe einer Sequenz aufsteigender Zahlen,
 * der Berechnung des Produkts einer Sequenz aufsteigender Zahlen ($n!$) sowie
-* der Fibbonacci Zahlenfolge
+* der Fibonacci Zahlenfolge
 
 aufgezeigt werden.
 
-Das Prinzip *divide and conquer* (teile und herrsche) wird am Beispiel
-von Merge Sort - einem Sortieralgorithmus - vorgestellt.
-Dieses Prinzip basiert auf der Idee, das kleine Probleme einfacher zu
-lösen sind als grosse. Deshalb versucht man, das zu lösende Problem in
-Teilprobleme aufzuteilen und diese, kleineren Probleme, zu lösen um
-anschliessend die Teillösungen zu einer Lösung für das Ursprungsproblem
-zusammenzusetzen. 
-
-Diese Idee wird oft durch *Rekursion* umgesetzt. Der Begriff Rekursion
-kann am besten am Beispiel einer Kindergeschichte erklärt werden:
+Wie Rekursion im Allgemeinen funktioniert, kann mit der folgenden
+Kindergeschichte aufgezeigt werden:
 
 >Es isch e mal en Maa gsi, de hät en hole Zah gha. I dem Zah häts es
 >Truckli gha und i däm Truckli häts es Briefli gha. I dem Briefli isch
