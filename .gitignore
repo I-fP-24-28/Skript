@@ -25,4 +25,5 @@ venv/
 venv/**/*.py
 /.luarc.json
 
-docs/241113/.ipynb_checkpoints/
+**/.ipynb_checkpoints/
+
