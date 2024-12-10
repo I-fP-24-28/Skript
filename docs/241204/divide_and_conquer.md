@@ -27,5 +27,5 @@ aufrufen.
 Hier geht es zu einem 
 [Arbeitsblatt zu den rekursiven Funktionen](anwendungsuebung_rekursion.ipynb).  
 Die Musterlösung des Arbeitsblattes ist hier 
-<a hrfef="https://colab.research.google.com/github/I-fP-24-28/Skript/blob/main/docs/241204/musterloesung_anwendungsuebung_rekursion.ipynb"
+<a href="https://colab.research.google.com/github/I-fP-24-28/Skript/blob/main/docs/241204/musterloesung_anwendungsuebung_rekursion.ipynb"
 target="_blank">verlinkt</a>.
