@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="309" height="90" shape-rendering="crispEdges">
+	<path transform="translate(208.66 84.1025)" d="M0 0L100 0L100 5L0 5L0 0Z"/>
+	<path transform="matrix(0.5 0.866025 -0.866025 0.5 158.66 0)" d="M0 0L100 0L100 5L0 5L0 0Z"/>
+	<path transform="matrix(0.5 -0.866025 0.866025 0.5 100 86.6025)" d="M0 0L100 0L100 5L0 5L0 0Z"/>
+	<path transform="translate(-7.62939e-06 84.1025)" d="M0 0L100 0L100 5L0 5L0 0Z"/>
+</svg>
