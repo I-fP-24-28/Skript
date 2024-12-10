@@ -23,7 +23,7 @@ Das Programm entspricht dem aktuellen Stand der Planung. Es kann zu
 | 20.11.24 | Datenstrukturen: [Python Dictionaries](241120/dictionaries.md) |
 | 27.11.24 | Algorithmen: [Selection Sort](241127/selection_sort.md) |
 | 04.12.24 | Algorithmen: [Rekursion](241204/divide_and_conquer.md) |
-| 11.12.24 | Anwendungsübung Rekursion: [Arbeitsblatt](241211/anwendungsuebung_rekursion.ipynb) |
+| 11.12.24 | Anwendungsübung Rekursion: [Arbeitsblatt](241211/schneeflocke.ipynb) |
 | 18.12.24 | Test |
 
 ## Hilfsmittel für den Unterricht
