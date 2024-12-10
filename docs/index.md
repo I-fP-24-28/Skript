@@ -24,7 +24,7 @@ Das Programm entspricht dem aktuellen Stand der Planung. Es kann zu
 | 27.11.24 | Algorithmen: [Selection Sort](241127/selection_sort.md) |
 | 04.12.24 | Algorithmen: [Rekursion](241204/divide_and_conquer.md) |
 | 11.12.24 | Anwendungsübung Rekursion: [Arbeitsblatt](241211/schneeflocke.ipynb) |
-| 18.12.24 | Test |
+| 18.12.24 | Test: [Lernziele](241211/lernziele.md) |
 
 ## Hilfsmittel für den Unterricht
 
