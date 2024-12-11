@@ -1,0 +1,9 @@
+---
+title: Musterlösung Vertiefungsübung rekursive Funktionen
+author: Jacques Mock Schindler
+date: 11. Dezember 24
+format: pdf
+header-includes:
+    -\usepackage{graphicx}
+    -\usepackage{svg}
+---
