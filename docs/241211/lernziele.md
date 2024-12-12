@@ -11,3 +11,7 @@ Ich erwarte, dass Sie in der Lage sind
 
 Ausserdem erwarte ich, dass Sie in der Lage sind, auf alles schon getestete
 zurückzugreifen.
+
+Hier die überarbeitete Darstellung der Startsequenz:
+
+![Startsequenz](../anleitungen/startsequenz.svg)
