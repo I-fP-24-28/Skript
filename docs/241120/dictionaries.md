@@ -95,4 +95,5 @@ for item, value in definitions.items():
 
 Die hier dargelegten theoretischen Ausführungen können in diesem
 [Arbeitsblatt](arbeitsblatt_dictionaries.ipynb)
-eingeübt werden.
+eingeübt werden. 
+[Hier finden Sie die Musterlösung zum Arbeitsblatt.](https://colab.research.google.com/github/I-fP-24-28/Skript/blob/main/docs/241120/arbeitsblatt_dictionaries_musterloesung.ipynb)
