@@ -9,3 +9,4 @@ wieder zusammengefügt.
 
 Die folgenden Grafiken sollen das Vorgehen illustrieren.
 
+![](schema.svg)
