@@ -52,5 +52,9 @@ des Merge Sort Algorithmus'''
     merge(s1, s2, s)
 ```
 
-[^1]: Goodrich, Michael T., Roberto Tamassia, und Michael H. Goldwasser. Data
+Weil Merge Sort insgesamt $log_2 n$ Teilungen und $n$ Vergleiche vornehmen muss
+liegt der Aufwand von Merge Sort bei $\mathcal{O}(n log n)$.
+
+
+[^1]: Goodrich, Michael T., Roberto Tamassia, and Michael H. Goldwasser. Data
     structures and algorithms in Python. Hoboken, NJ: Wiley, 2013, pp 543.
