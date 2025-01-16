@@ -54,3 +54,9 @@ class LinkedList:
                 node = node.next
                 
             return -1
+        
+    def itrate(self):
+        node = self.start
+        while node:
+            yield node.value
+            node = node.next
