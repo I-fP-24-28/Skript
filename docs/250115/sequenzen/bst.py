@@ -14,22 +14,22 @@ class BST:
             
     def append(self, value):
         node = BNode(value)
-        if self.root == None:
-            self.root == node
+        if self.root is None:
+            self.root = node
             self.size += 1
             return
             
         reference_node = self.root
         
         while reference_node:
-            if reference_node.value > value and reference_node.left == None:
+            if reference_node.value > value and reference_node.left is None:
                 node.parent = reference_node
                 reference_node.left = node
                 self.size += 1
                 break
             elif reference_node.value > value:
                 reference_node = reference_node.left
-            elif reference_node.value < value and reference_node.right == None:
+            elif reference_node.value < value and reference_node.right is None:
                 node.parent = reference_node
                 reference_node.right = node
                 self.size += 1
