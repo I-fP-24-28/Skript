@@ -32,3 +32,25 @@ class LinkedList:
                 return node
             
         return None
+    
+    def delete(self, value):
+        if self.start == None:
+            return -1
+        elif self.search(value) == None:
+            return -1
+        
+        else:
+            node = self.start
+            if node.value == value:
+                self.start = node.next
+                return 0
+            
+            hook = node
+            while node:
+                if node.value == value:
+                    hook.next = node.next
+                    return 0
+                hook = node
+                node = node.next
+                
+            return -1
