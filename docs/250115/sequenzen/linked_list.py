@@ -16,3 +16,19 @@ class LinkedList:
         node = Node(value)
         node.next = self.start
         self.start = node
+        
+    def search(self, value):
+        if self.start == None:
+            return None
+        
+        node = self.start
+        
+        if node.value == value:
+            return node
+        
+        while node.next:
+            node = node.next
+            if node.value == value:
+                return node
+            
+        return None
