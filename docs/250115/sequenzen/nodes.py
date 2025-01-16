@@ -18,5 +18,3 @@ class BNode:
         self.left = None
         self.right = None
         
-    def __str__(self):
-        return f'{super().__str__()}\nParent: {self.parent}\nValue: {self.value}\nLinks: {self.left}\tRechts: {self.right}'
