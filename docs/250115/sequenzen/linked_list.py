@@ -16,6 +16,7 @@ class LinkedList:
         node = Node(value)
         node.next = self.start
         self.start = node
+        self.length += 1
         
     def search(self, value):
         if self.start == None:
@@ -43,12 +44,14 @@ class LinkedList:
             node = self.start
             if node.value == value:
                 self.start = node.next
+                self.length -= 1
                 return 0
             
             hook = node
             while node:
                 if node.value == value:
                     hook.next = node.next
+                    self.length -= 1
                     return 0
                 hook = node
                 node = node.next
