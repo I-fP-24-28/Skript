@@ -36,4 +36,25 @@ class BST:
                 break
             else:
                 reference_node = reference_node.right
+                
+    def search(self, value):
+        if self.root is None:
+            return -1
+        
+        if self.root.value == value:
+            return self.root
+        
+        reference_node = self.root
+                
+        while reference_node:
+            if reference_node.value == value:
+                return reference_node
+            elif reference_node.value > value and reference_node.left is None:
+                return -1
+            elif reference_node.value > value:
+                reference_node = reference_node.left
+            elif reference_node.value < value and reference_node.right is None:
+                return -1
+            else:
+                reference_node = reference_node.right
             
