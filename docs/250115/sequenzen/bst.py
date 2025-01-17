@@ -57,4 +57,30 @@ class BST:
                 return -1
             else:
                 reference_node = reference_node.right
+                
+    def delete(self, value):
+        node = self.search(value)
+        
+        # leaf
+        if node.left is None and node.right is None:
+            if node.parent.value > value:
+                node.parent.left = None
+            else:
+                node.parent.right = None
+                
+        # one child left
+        elif node.left is not None and node.right is None:
+            parent = node.parent
+            child = node.left
+            parent.left = child
+            child.parent = parent
+            node.parent = None
+            node.left = None
             
+        # one child right
+        elif node.right is not None and node.left is None:
+            parent = node.parent
+            child = node.left
+            parent.right = child
+            node.parent = None
+            node.let = None
