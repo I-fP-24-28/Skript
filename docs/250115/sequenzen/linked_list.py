@@ -7,22 +7,24 @@ class LinkedList:
         self.length = 0
         if value:
             node = Node(value)
-            self.start = node
+            self.head = node
             self.length += 1
         else:
-            self.start = None
+            self.head = None
             
     def append(self, value):
         node = Node(value)
-        node.next = self.start
-        self.start = node
+        node.next = self.head
+        self.head = node
         self.length += 1
         
+    push = append
+        
     def search(self, value):
-        if self.start == None:
+        if self.head == None:
             return None
         
-        node = self.start
+        node = self.head
         
         if node.value == value:
             return node
@@ -35,15 +37,15 @@ class LinkedList:
         return None
     
     def delete(self, value):
-        if self.start == None:
+        if self.head == None:
             return -1
         elif self.search(value) == None:
             return -1
         
         else:
-            node = self.start
+            node = self.head
             if node.value == value:
-                self.start = node.next
+                self.head = node.next
                 self.length -= 1
                 return 0
             
@@ -58,8 +60,17 @@ class LinkedList:
                 
             return -1
         
+    def pop(self):
+        if self.head is None:
+            return -1
+        else:
+            node = self.head
+            node.next = None
+            self.head = self.head.next
+            return node
+        
     def itrate(self):
-        node = self.start
+        node = self.head
         while node:
             yield node.value
             node = node.next
