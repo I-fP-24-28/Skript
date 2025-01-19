@@ -65,7 +65,8 @@ class LinkedList:
             return -1
         else:
             node = self.head
-            node.next = None
+            if node.next:
+                node.next = None
             self.head = self.head.next
             return node
         
