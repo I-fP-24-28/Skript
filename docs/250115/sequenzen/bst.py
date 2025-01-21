@@ -58,6 +58,26 @@ class BST:
             else:
                 reference_node = reference_node.right
                 
+    def traversal(self):
+        result = []
+        stack = []
+        current = self.root
+
+        while current is not None or stack:
+            # Gehe so weit wie möglich nach links und speichere die Knoten im Stack
+            while current is not None:
+                stack.append(current)
+                current = current.left
+            
+            # Der letzte Knoten im Stack ist der nächste Knoten, den wir besuchen
+            current = stack.pop()
+            result.append(current)  # Verarbeite den aktuellen Knoten
+            
+            # Gehe zum rechten Teilbaum
+            current = current.right
+
+        return result  # Gib das Ergebnis zurück
+                
     def delete(self, value):
         node = self.search(value)
         
