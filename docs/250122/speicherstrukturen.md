@@ -10,3 +10,11 @@ in der realen Welt, wird der letzte gespeicherte Wert zuoberst auf den Stapel
 gelegt. Ebenso wie in einem realen Stapel, können die gespeicherten Werte nur in
 umgekehrter Reihenfolge zu ihrer Speicherung wieder abgerufen werden (last in -
 first out; LIFO).  
+Ein Stack kann dazu verwendet werden, um die Verarbeitungsreihenfolge von
+Rechenoperationen in einem Programm abzubilden.
+
+In einer Queue werden die gespeicherten Werte in einer Warteschlange
+*eingereiht*. Wie in einer Warteschlange in der realen Welt, wird jeder neu
+gespeicherte Wert hinten eingereiht. Beim Abrufen der gespeicherten Werte wird
+der zuerst gespeicherte Wert zuerst verarbeitet (first in - first out; FIFO).  
+Eine Queue kann dazu verwendet werden (naja), eine Warteschlange abzubilden.
