@@ -24,3 +24,8 @@ gespeicherte Wert hinten eingereiht. Beim Abrufen der gespeicherten Werte wird
 der zuerst gespeicherte Wert zuerst verarbeitet (first in - first out; FIFO).  
 Eine Queue kann dazu verwendet werden, eine Warteschlange abzubilden wie sie in
 Netzwerken für die Übermittlung von Datenpaketen gebraucht wird.
+
+<figure>
+    <img src="unemployment_line.jpg" alt="Unemployment Line">
+    <figcaption style="font-size: 10px;">Dole Queue Great Depression (Quelle: https://view.genially.com/609aac10d34c960d5992809a/interactive-content-great-depression-breakout, besucht am 22.01.15).</figcaption>
+</figure>
