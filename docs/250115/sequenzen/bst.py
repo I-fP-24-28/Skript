@@ -104,3 +104,4 @@ class BST:
             parent.right = child
             node.parent = None
             node.let = None
+            
