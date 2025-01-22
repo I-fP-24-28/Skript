@@ -15,7 +15,7 @@ Rechenoperationen in einem Programm abzubilden.
 
 <figure>
     <img src="brotstapel.png" alt="Brotstapel">
-    <figcaption style="font-size: 10px;">Martin Meier mit einem Stapel Brot (Quelle: Sasa Noël und Heike Grein, Brothandwerk, Aarau und München, 2021, Seite 50)</figcaption>
+    <figcaption style="font-size: 10px;">Martin Mayer mit einem Stapel Brot (Quelle: Sasa Noël und Heike Grein, Brothandwerk, Aarau und München, 2021, Seite 50)</figcaption>
 </figure>
 
 In einer Queue werden die gespeicherten Werte in einer Warteschlange
@@ -29,3 +29,8 @@ Netzwerken für die Übermittlung von Datenpaketen gebraucht wird.
     <img src="unemployment_line.jpg" alt="Unemployment Line">
     <figcaption style="font-size: 10px;">Dole Queue Great Depression (Quelle: https://view.genially.com/609aac10d34c960d5992809a/interactive-content-great-depression-breakout, besucht am 22.01.15).</figcaption>
 </figure>
+
+Für die Übungen finden Sie hier eine [Klasse Node](src/nodes.py) 
+und eine 
+[Klasse Linked List](src/linked_list.py)
+zum Download.
