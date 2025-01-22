@@ -26,6 +26,7 @@ Das Programm entspricht dem aktuellen Stand der Planung. Es kann zu
 | 11.12.24 | Anwendungsübung Rekursion: [Arbeitsblatt](241211/schneeflocke.ipynb) [(Musterlösung)](https://colab.research.google.com/github/I-fP-24-28/Skript/blob/main/docs/241211/musterloesung_schneeflocke.ipynb)|
 | 18.12.24 | Test: [Lernziele](241211/lernziele.md) |
 | 08.01.25 | Algorithmen: [Merge Sort](250108/merge_sort.md) |
+| 22.01.25 | Datenstrukturen: [Stack und Queue](250122/speicherstrukturen.md) |
 
 ## Hilfsmittel für den Unterricht
 
