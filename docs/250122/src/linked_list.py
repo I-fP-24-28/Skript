@@ -18,6 +18,15 @@ class LinkedList:
         self.head = node
         self.length += 1
         
+    push = append
+    
+    def pop(self) -> Node:
+        result = self.head
+        self.head = result.next
+        result.next = None
+        self.length -= 1
+        return result
+        
     def search(self, value):
         if self.head == None:
             return None
