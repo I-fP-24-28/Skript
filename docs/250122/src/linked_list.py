@@ -18,8 +18,6 @@ class LinkedList:
         self.head = node
         self.length += 1
         
-    push = append
-        
     def search(self, value):
         if self.head == None:
             return None
@@ -59,17 +57,7 @@ class LinkedList:
                 node = node.next
                 
             return -1
-        
-    def pop(self):
-        if self.head is None:
-            return -1
-        else:
-            node = self.head
-            if node.next:
-                node.next = None
-            self.head = self.head.next
-            return node
-        
+                
     def itrate(self):
         node = self.head
         while node:
