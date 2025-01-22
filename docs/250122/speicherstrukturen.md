@@ -13,8 +13,14 @@ first out; LIFO).
 Ein Stack kann dazu verwendet werden, um die Verarbeitungsreihenfolge von
 Rechenoperationen in einem Programm abzubilden.
 
+<figure>
+    <img src="brotstapel.png" alt="Brotstapel">
+    <figcaption style="font-size: 10px;">Martin Meier mit einem Stapel Brot (Quelle: Sasa Noël und Heike Grein, Brothandwerk, Aarau und München, 2021, Seite 50)</figcaption>
+</figure>
+
 In einer Queue werden die gespeicherten Werte in einer Warteschlange
 *eingereiht*. Wie in einer Warteschlange in der realen Welt, wird jeder neu
 gespeicherte Wert hinten eingereiht. Beim Abrufen der gespeicherten Werte wird
 der zuerst gespeicherte Wert zuerst verarbeitet (first in - first out; FIFO).  
-Eine Queue kann dazu verwendet werden (naja), eine Warteschlange abzubilden.
+Eine Queue kann dazu verwendet werden, eine Warteschlange abzubilden wie sie in
+Netzwerken für die Übermittlung von Datenpaketen gebraucht wird.
