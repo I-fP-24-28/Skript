@@ -1,6 +1,6 @@
 # linked_list.py
 
-from nodes import Node
+from nodes import Node, QNode
 
 class LinkedList:
     def __init__(self, value=None):
@@ -80,6 +80,7 @@ class Queue(LinkedList):
             node = QNode(value)
             self.tail = node
             self.head = node
+            self.length += 1
             
         else:
             self.head = None
@@ -91,11 +92,13 @@ class Queue(LinkedList):
         self.tail = node
         node.next = prev_node
         prev_node.prev = self.tail
+        self.length += 1
         
     def pop(self):
         node = self.head
         self.head = node.prev
         node.prev = None
         node.next = None
+        self.length -= 1
         return node
         
